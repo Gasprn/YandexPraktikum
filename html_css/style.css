@@ -1,0 +1,110 @@
+body {
+  font-family: 'Fira Sans';
+}
+.logo { 
+  width: 148px; height: 38px; 
+  background-image: url(https://pictures.s3.yandex.net/logotype.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: auto;
+}
+
+.footer{
+  height:100px;
+  background-color:#000;
+  box-sizing:
+  border-box;
+  padding-top: 30px;
+}
+
+.card p{
+  font-size:20px;
+  line-height: 30px;
+ margin-bottom: 90px;
+}
+
+.card h3 { 
+  font-size: 35px;  
+  font-family: 'Anonymous Pro';
+  font-weight: bold;
+ margin: 44px 0px 30px;
+}
+
+.rules {
+  width:910px;
+  margin: 90px auto 0px;
+ 
+}
+
+.header {
+  padding-top: 120px;
+  height: 100vh;
+  background-color: rgba(255, 0, 0, 0.7);
+  text-align: center;
+  color: #fff;
+  background-image: url(https://pictures.s3.yandex.net/background.jpg);
+  background-size: cover;
+  background-position: center bottom;
+}
+
+h1 {
+  font-size: 55px;
+  line-height: 240px;
+  font-family: 'Anonymous Pro';
+  text-transform: uppercase;
+}
+
+h2 {
+  margin-left:auto;
+  margin-right:auto;
+  margin: 46px auto 0px;
+  width: 630px;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+}
+.card{
+  vertical-align: top;
+  display: inline-block;
+  width:420px;
+  min-height:420px;
+  margin-right: 65px;
+  
+}
+  
+.module-card{
+  margin-right: 0;
+} 
+
+.colors-card{ 
+  margin-right: 0;
+}
+
+.module {
+  background-image:url('https://pictures.s3.yandex.net/grid.jpg');
+  border-width:5px;
+  border-style:solid;
+  border-color:#ff3333;
+  width:420px;
+  height:420px;
+  
+}
+.image{
+  box-sizing: border-box;
+  background-position: center;
+  background-size: cover;
+  width:420px;
+  height:420px;
+  
+}
+.near{
+   background-image: url('https://pictures.s3.yandex.net/proximity.jpg');
+}
+.fonts{
+  background-image: url('https://pictures.s3.yandex.net/type.jpg');
+  
+}
+.colors{
+  background-image:url('https://pictures.s3.yandex.net/color.jpg');
+}
